@@ -6,7 +6,14 @@ namespace primeiro_c_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string condicao;
+            int num;
+            Console.WriteLine("Como voçê esta ?");
+            condicao = Console.ReadLine();
+            Console.WriteLine("A sua condição é: " + condicao);
+            num  = 20;
+            Console.WriteLine(+ num);
+             
         }
     }
 }
