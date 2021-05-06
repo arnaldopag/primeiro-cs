@@ -1,0 +1,13 @@
+C:\Users\dinhu\OneDrive\Documentos\GitHub\primeiro-c#\bin\Debug\netcoreapp3.1\primeiro-c#.exe
+C:\Users\dinhu\OneDrive\Documentos\GitHub\primeiro-c#\bin\Debug\netcoreapp3.1\primeiro-c#.deps.json
+C:\Users\dinhu\OneDrive\Documentos\GitHub\primeiro-c#\bin\Debug\netcoreapp3.1\primeiro-c#.runtimeconfig.json
+C:\Users\dinhu\OneDrive\Documentos\GitHub\primeiro-c#\bin\Debug\netcoreapp3.1\primeiro-c#.runtimeconfig.dev.json
+C:\Users\dinhu\OneDrive\Documentos\GitHub\primeiro-c#\bin\Debug\netcoreapp3.1\primeiro-c#.dll
+C:\Users\dinhu\OneDrive\Documentos\GitHub\primeiro-c#\bin\Debug\netcoreapp3.1\primeiro-c#.pdb
+C:\Users\dinhu\OneDrive\Documentos\GitHub\primeiro-c#\obj\Debug\netcoreapp3.1\primeiro-c#.csprojAssemblyReference.cache
+C:\Users\dinhu\OneDrive\Documentos\GitHub\primeiro-c#\obj\Debug\netcoreapp3.1\primeiro-c#.AssemblyInfoInputs.cache
+C:\Users\dinhu\OneDrive\Documentos\GitHub\primeiro-c#\obj\Debug\netcoreapp3.1\primeiro-c#.AssemblyInfo.cs
+C:\Users\dinhu\OneDrive\Documentos\GitHub\primeiro-c#\obj\Debug\netcoreapp3.1\primeiro-c#.csproj.CoreCompileInputs.cache
+C:\Users\dinhu\OneDrive\Documentos\GitHub\primeiro-c#\obj\Debug\netcoreapp3.1\primeiro-c#.dll
+C:\Users\dinhu\OneDrive\Documentos\GitHub\primeiro-c#\obj\Debug\netcoreapp3.1\primeiro-c#.pdb
+C:\Users\dinhu\OneDrive\Documentos\GitHub\primeiro-c#\obj\Debug\netcoreapp3.1\primeiro-c#.genruntimeconfig.cache
